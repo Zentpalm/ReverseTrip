@@ -1,0 +1,7 @@
+noto-sans-thai-400.ttf
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/thai)
+https://scripts.sil.org/OFL
+
+plus-jakarta-sans-400.ttf
+Copyright 2020 The Plus Jakarta Sans Project Authors (https://github.com/tokotype/PlusJakartaSans)
+https://scripts.sil.org/OFL

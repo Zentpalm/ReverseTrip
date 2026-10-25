@@ -1,0 +1,62 @@
+import type { Activity, Catalog } from '../src/lib/types';
+import { DEFAULT_DISCOUNTS } from '../src/lib/pricing';
+export function fixtureActivity(id = 'cooking', price = 85000): Activity {
+  return {
+    id,
+    community_id: 'c',
+    title_th: id === 'cooking' ? 'เวิร์กช็อปทำอาหารไทย' : 'ปั้นเครื่องปั้นดินเผา',
+    title_en: id === 'cooking' ? 'Thai cooking workshop' : 'Pottery workshop',
+    description_th: 'รายละเอียดกิจกรรมสาธิตสำหรับทดสอบ',
+    description_en: 'A sample local experience for testing.',
+    category: id === 'cooking' ? 'food' : 'craft',
+    province: 'เชียงใหม่',
+    latitude: 18,
+    longitude: 98,
+    duration_minutes: 180,
+    price_satang: price,
+    min_participants: 1,
+    max_participants: 10,
+    min_age: 8,
+    image: '/images/' + id + '.webp',
+    included_th: 'อุปกรณ์',
+    included_en: 'Equipment',
+    safety_th: 'ผู้เยาว์ต้องมีผู้ปกครองร่วมกิจกรรม',
+    safety_en: 'Guardian required for minors.',
+    cancellation_th: 'ยกเลิกได้ก่อนกิจกรรมเริ่ม',
+    cancellation_en: 'Cancel before the session starts.',
+    eligible: 1,
+    demo: 1,
+    status: 'published',
+    host_name: 'ชุมชนสาธิต',
+    verification: 'verified',
+    images: [],
+    sessions: [
+      {
+        id: id + '-am',
+        activity_id: id,
+        starts_at: '2030-01-10T09:00:00+07:00',
+        ends_at: '2030-01-10T12:00:00+07:00',
+        capacity: 10,
+        reserved: 0,
+        group_mode: 1,
+        status: 'open',
+      },
+      {
+        id: id + '-pm',
+        activity_id: id,
+        starts_at: '2030-01-10T14:00:00+07:00',
+        ends_at: '2030-01-10T17:00:00+07:00',
+        capacity: 10,
+        reserved: 0,
+        group_mode: 1,
+        status: 'open',
+      },
+    ],
+  };
+}
+export const fixtureCatalog: Catalog = {
+  activities: [fixtureActivity(), fixtureActivity('pottery', 75000)],
+  communities: [],
+  demo: true,
+  discounts: DEFAULT_DISCOUNTS,
+};

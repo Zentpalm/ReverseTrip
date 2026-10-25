@@ -1,0 +1,497 @@
+[
+  {
+    "name": "brand",
+    "url": "https://lh3.googleusercontent.com/aida/AEtjO1UmtfYwlqCOao2RpexS8UJdTXPp9vzwl_WIfkSWwBnX0uzFh_LwKTLCq3ZyiDInMhsqNWkbM40nlBRq5K1pT_byM1036P2qK2lLQjkYUz-tXI37pqLrUm4RH8hWO-OQCf3JtaY2c8kxuAf4Bb-re_YgyqVnsK3vXbg1EyaA6qutx-qKIjeanHONAw18YvNkF9YQcjU1IQBOouOuwM0_wlfK39drKGY--5dacYNLmem7wvWs0GE_eo8H6nkK",
+    "alt": "ReverseTrip Brand Logo",
+    "source": "08_login_register",
+    "path": "/images/brand.webp",
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "cooking",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAVUuBfdeMW2UyGJaMIz-BHEUECoXgEEI9n_6pSf6sTnX7UmS8MVQtqQUhZBCmqqqtrOkS-6We0XMletthvc6lRr1CTrCjWCydxOr3KXSxXnXpI_lu8voqOLdtoc1L_owGH0DQBvjzsPRf4RGowXhVPKop5rJX3eLupXO746ycbUn8X4StwXL0wuXeykKUrGLSoszX9FED3K9aGhsixcNcVnWAdgv_vm1u6F2p08nh9WsCxNfZdIxvldg",
+    "alt": "Authentic Thai cooking workshop in an open-air wooden kitchen pavilion surrounded by lush organic tropical spice garden in Chiang Mai, sunlight filtering through banana leaves, traditional clay mortar pestle and herbs on teak table, cinematic warm natural lighting",
+    "source": "01_homepage",
+    "path": "/images/cooking.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "pottery",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCMva04XlrJmIarvqgm_k0rPbEMvT4KIQVCz2SsGxlWeOxNS2PNnEsXoQYr_xnm5croIQTWVjcwAE1MMYQVv5z1YwNW-kXQZFi8ppNNfwFIqZoPXZ8Jgy_xc3ry-AfkqZ6OzsPBqJxG-PtlzMucOQZQ9mxEj0U1YsyIAO3roTpaq3UL1gYHwVZiMmR_BdQR4toQgiwEqN9L34rMOGFS334z-Zk1OpnkgTT60rSvdjySFInHY7_j4fSR8g",
+    "alt": "Artisan ceramic pottery workshop in San Kamphaeng Chiang Mai, hands gently shaping wet local river clay on spinning wooden wheel, finished celadon glazed vases with indigo Lanna patterns drying in background soft ambient daylight",
+    "source": "01_homepage",
+    "path": "/images/pottery.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "indigo",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB2Jn249wMMgfkRzsG2QpNnxvJ5aJqzC4v9bluhz2M-OFdV9lZlNeKa7rAxDGBtoJBPEDF490-lIavDZu9X82ewFW9Z_rYVYr-BNFl0L0vekgcQAgPFg7m2SUHF5dXEsP_EVejRY_gMIGxjrmNw_LySuQsgNiLrgh2K6qUNxlktXKyWVUpdrE65kgrfQJVAcq5w5R33cDXPkY6nu14f0m6YGcfyaBzYD4EoS0DHkdJCu9Y-2cRGelmsaQ",
+    "alt": "Elderly artisan woman hand-dipping natural cotton woven textiles into traditional earthen fermentation indigo dye vats in Sakon Nakhon Thailand, deep indigo blue dyed fabric hanging on bamboo racks under gentle morning sun",
+    "source": "01_homepage",
+    "path": "/images/indigo.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "cacao",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBt4RMjl-Wi0utgNcUbEgIAJaNS8m_fB8fa10CqNXgQev3FSBdlrV2pek8T3uwEmlx4LcprwfbYxBh-SESUD9-s85UB0zQ3xPliNu-atiZ1IaTEugT5uiIJbt1OP_KvZqUPsEoAORtIdEV6agBSyX1M2MNtP22zxifBr8hP46fw4wXSeNi6C4DOVjF-azLAtwBPKgj4oi_BJfBZVc0NYQ7qTebEkZITA1tsctSjR-BjQWKsS6AaOebmxw",
+    "alt": "Nan highland organic cacao orchard, warm sun on farmers cracking open golden ripe cacao pods, handcrafted chocolate tempering on marble slab with dried mountain berries, rich dark chocolate aesthetics",
+    "source": "01_homepage",
+    "path": "/images/cacao.webp",
+    "size": [
+      512,
+      286
+    ]
+  },
+  {
+    "name": "paddleboard",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCP20KIJidg70WhOI2RKMRzVXj_SP8B9XHCc9bypr9v0CanprxmtBM-amDfYKywhrJhaz1HLcxYfC45I9jUAAqkIWroRaE0NdYVQbyLPyakkfBDBEms_GepGW6e7iiv0-v7o-fcFPjNxpREsUXZ58SptrBUiLOzBZh50bivn7r-WkhsvF-RFTHYMaM1J8DzdoaEEoRjHG03FIydpwxvwqZ3LzJoBvZcYTLIkAuhPkc7FWi5ZV16iRvSgA",
+    "alt": "Paddleboarders gliding across calm mirror-like emerald coastal waters surrounded by dramatic limestone karst cliffs and lush mangrove forest in Phang Nga Bay Thailand at sunrise with pink and amber dawn mist",
+    "source": "01_homepage",
+    "path": "/images/paddleboard.webp",
+    "size": [
+      512,
+      286
+    ]
+  },
+  {
+    "name": "amphawa",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDl89iA4EApr3h3xmWMdf6J9w8ZDbWvxwnSCTHDlQyRB5S5HMBrqDglb9zpuEWKPSIOe0Enw9oVpV-MCPkVIh3ZIRgiTVvvo6YuRJ5Z_0MAvb8w5ECYBVepcalWtgRr1IKwt_kO6e4fGdMmf6SWh_mafQSmvYEmoteOzRvqtMAqjOphvFcp3UlTIRGI1Lt05eYLZSPS2s6TQ85-nH6zyqW1bxn7Fx_qrvCYV9cqdHThxdU9Nw0q3bgr3w",
+    "alt": "Traditional wooden longtail boat cruising softly along serene canal lined with coconut groves and heritage wooden houses in Amphawa Samut Songkhram, hands wrapping authentic coconut sweets in banana leaves on boat deck",
+    "source": "01_homepage",
+    "path": "/images/amphawa.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "community-mae-kampong",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC5ldDMPI9auxhBUaNrwpLL-Kw02I9FGgZSbOEVCReYboiS1IUyWSHNp1AYjVtQBAi-LWyXhoHi4QdSGZIA9mZIKYNCX1BOSsvGi-pIW3T-srepwf7d6Gt5SVj8ou9KOfgP8vPNNmrsBYc2nEDfkfr9-eqrHFhv-63OzX2dw1vRHhqJd4b53Tk2bh145m9O3IkJSMBAgSUNQLj9Pt2xh93C4YcDP2X72SsqkXT0FSuuevTwejDR5-qMUg",
+    "alt": "Ban Mae Kampong mountain village in Chiang Mai surrounded by lush green tea hills and rainforest canopy, cascading stream flowing under wooden cottages with smoke rising from traditional kitchens",
+    "source": "01_homepage",
+    "path": "/images/community-mae-kampong.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "community-indigo",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5aTEbeuqhnj_jv7LUyrckvW_-cs_-aATyDHuwvpvzqOJCxv1qUhtBL0ymRSZYoHl3UBDaZRYgb1yiTw7vE7efFichkElRuXdgGLdQ4sPIjZl7wgybo1befwcy5RZEOoXEtItTWvFjMw9jarEzQ4Rf_L88w2VkU0RQ69w6L8RJzg-Mzm2KzzNL4lmOFQcHLmg0a6iHi3AEKzPHw1VHUYES0VqWmZpJxoF_w__bjDqYdwP0kUPTBk7ZdQ",
+    "alt": "Sakon Nakhon natural indigo fabric dyeing artisan cooperative, rows of blue dyed cotton textiles on bamboo lines fluttering gently under Isan sunshine with clay vats in the courtyard",
+    "source": "01_homepage",
+    "path": "/images/community-indigo.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "community-amphawa",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBiV2TBobl-0zAeDXgV9q4O_J54f9grbAhRMGHCR6I-kAhaONOQ3w2puHbriNGYbbjHQzYKSHnfRrfcnvCEDFj7XGoBc_L-IwLRKQXr3Td6mcYU751NLlrOnY3VHEMT4eOTc_ltgo6WZx2DFKzZcGN4k4gn-eQRZWpxKwCqEWUYI7Ndd_1uwx2e7D2waa8L3429f5T0di1XnD7QW5vkbKC4LcVN4riHGTJ9r9suFtufolQmK6byE65oSg",
+    "alt": "Traditional Amphawa Samut Songkhram riverside village community along waterways, wooden rowboats filled with fresh pomelo and coconuts, smiling local host greeting visitors under tropical palm shade",
+    "source": "01_homepage",
+    "path": "/images/community-amphawa.webp",
+    "size": [
+      512,
+      286
+    ]
+  },
+  {
+    "name": "hero",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCbFZMlVduo949McfK2sbDWvRUxpcupBBKUed5UinGFGcnEMLnEO8ZHkn6Pm_ux0F44bsIpDKT8_Up4qVoSfbO5ph8DHB9BKBZQSeSwEvjPL5R_tmvZjtlJCNcRK6w0fBk3oDk_M4iEWnFz-3XvbI8hbooV9xWcuqXJItY_53KuXcVRqLZKE_WWEFn1lTLl2u5YwEyD4R-WP1Wm4NwtsFn0stzNsLdzxyKVHJeDYlb0tScO7KpnBeTkdQ",
+    "alt": "Reference background photography",
+    "source": "01_homepage",
+    "path": "/images/hero.webp",
+    "size": [
+      512,
+      286
+    ]
+  },
+  {
+    "name": "cooking-explore",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB0WHxKUliJFK-lG2JpZR0CRFSscvXegWhqegp6DzTdTTaURhqOIKxOywvO4B2gUu4-mcIhIyGJSPPxrFM3lhFUccCAkqijD-0p0HES5pXphHeBTU_ETgeZ3X-pzx0lzdX83CMJwfW2aW2QhQXxfezTZLDoF1mFZecHBr-IXZCW_ODl5ISQk__i-Cs0GIe_C14FH3FNw8Jm8S9VAz9E9KGYxfOG6vXhmK6qZGZifTBqZwvrOCyyRD6wwA",
+    "alt": "Northern Thai grandmother teaching young travelers how to grind fresh herbal spices using traditional granite mortar in wooden Chiang Mai kitchen, warm ambient dusk light, authentic rural documentary photography",
+    "source": "02_explore_activities",
+    "path": "/images/cooking-explore.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "pottery-explore",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA_YfGKeVyWq6Ov_wwO0zZFnuMd0KAzHQ5GUwYCOWoDLjaAo5kpoPw5qhIN0GzKTwBzQDKuuGuIHRiXM2d_Td8wW-qzZz1cQFknU-HSIRa2cjP3XPUCPYUi82cmyySGtXOSepMlKQVFiQat5StuMGClXD9a2X3ZfLAFpqM8axQuF7ZpK64vNh2z3JYg7AtjODHqGVEecDKIhi2T3KBJDA2WHx20T8hmPHR31PbO0v7NDEReijk3eQGL-A",
+    "alt": "Thai artisan shaping fine earthenware pottery wheel inside quiet terracotta courtyard studio in Chiang Mai, dusk shadows and delicate atmospheric clay dust floating, editorial documentary",
+    "source": "02_explore_activities",
+    "path": "/images/pottery-explore.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "indigo-explore",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCErsyT4UohLaEf6_zdx6QDxiO2wZuV-eMYo1Vxucjt9dJCXfr-UIisNBsFqFdpfc0sxMQX9T0LfHKGqWb3RkblQ4GXOB4cF4d_drLdPj-Mxf47bcaSUqtw6bu8BRuqvw1JS-JP28mHWKfZELFPaPsdKdhUYzvXm8ujfCXeY-8M90AsngjFj3kbomV5v0q3quQnEiRyqMGd_S_ZMcfjn9pVoc8znmImSxVqin8nu06aHYs6i9uOrj46cA",
+    "alt": "Natural indigo dye baths in clay jars at outdoor northern Thailand textile atelier, indigo stained woven cotton fabrics drying on bamboo rack under sunset sky, rich indigo hues",
+    "source": "02_explore_activities",
+    "path": "/images/indigo-explore.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "coffee",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAJr-k3lwCDivSdm5pz8eiQE7zaeiIwPrUJ2VjuuiEDJRvFvlD8OIF2FPkZyRXy4ACaviQ4agW3wShFfUhR_29JZI7zYY1e48omiROHISdEWx3eh0Li4XdORwk_w8n4hIY4uUQOlf_tXzvTiHODKnjfRB9U8JALD9QOBrO4s1f8mJzRBaAt96MA0M-jrGdujXhS70o2ybVAIWfS6pjIYi1X3orJwVJxpqw9RXcXad8rbEKR8Qswnm0kYA",
+    "alt": "A lush green organic tea and coffee farm on misty hill ridge in northern Thailand with local farmer showing red coffee cherries to guests, early morning dawn mist, cinematic lighting",
+    "source": "02_explore_activities",
+    "path": "/images/coffee.webp",
+    "size": [
+      512,
+      286
+    ]
+  },
+  {
+    "name": "umbrella",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCEn0e1I8SrSOrpvZH832C_BIGZjj4VW174Lu4qty-uE5iMbLtq8v_-VIN2AmVU6K8fUIJUcXU3-YyYQGO-K4n0f0DTm8vG3ChuxVEylFhCt83oR5Lxd3wX88LrYzKQ8YTQrbGQgB0RUV2DmIwh8iKw0nQxX68VJsQ1bCuYHj4A9ZYU6p7st7Ht_61JpPauBXDOSWyObzwWwKjwfp9LjIsKj_0ZDsbbElmt4GWn9L7PSojip2CAmMp3ig",
+    "alt": "Traditional Lanna wooden paper umbrella painting workshop in Bo Sang village Chiang Mai, brightly painted floral folk motifs with artist applying gold leaf details",
+    "source": "02_explore_activities",
+    "path": "/images/umbrella.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "spa",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcUCPlgiIvrXPa7Ib3MWyAnQwwTnU5F7_cva-H-E2DUk1g_V8dXCG9OMOeorrTHs7NqLuU64XK80dhQ1YFOYM6xP5C3skLcoCRGGyANKfGJb82bsTAp1msK369j7NrMFJKOOFH9N41zqDCJMpxa1TYhMIjIWCAd0gxoUwQUmwMAtqTQTO-Jm1I8OVfYC55LaZCwuCCnaS8iQ2_9f_7vgm8BtzssZurUTC12FJIEEWED-OJoGah10LfYQ",
+    "alt": "Cozy wooden open-air herbal spa pavilion surrounded by tropical lush garden in Chiang Mai, steaming copper bowls with lemongrass kaffir lime compresses, warm dusk candlelight glow",
+    "source": "02_explore_activities",
+    "path": "/images/spa.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "rafting",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB-5vgJ8bLvOQM2dOR_MdR3YMNLBQLDhqxweceuL5lXn50ZE81QbBi335Q9fhfneRpS5WJOcWaQG3QGjW0mwpFZ9lYLBl_q7EtuUXIo_K1sBHOc35P82ESWMRZtwIUyG68I-QX0VlfSDDU4-KBFne3GB0awwZccZaH8f_1rRHKn_28JagtU9jJZzhHP0LAhm65R7hoXj5-JBFrzEKfSrjxluo9Nfy1f3rOHdUjqfMbudfocJ3_x4VcxgA",
+    "alt": "Bamboo raft journey on calm crystal clear river surrounded by lush limestone jungle in Chiang Dao Thailand, gentle dusk water reflections, serene ecotourism experience",
+    "source": "02_explore_activities",
+    "path": "/images/rafting.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "market",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCb4jNkXR1NjP5E0s9fop1JbkYahO8f-Gro8dh9US4JXOD46b6_QW_pWZ2vX-HqH6hJyG7XbwiPlz5qfuKRH7D9I-cVywlhVa7hlVJykfJafJ4XEzL8E0zikucASR6RUOupKGai0E5rkk25GtdcNJuJwiqs5zCbejFd_-7Pz_cbJT7wGiFkekq7-_GdIAxlsFNBQIYhi4AH5AFrany1YHM0mZE6tM5jSaeQ0SG5XBepOuC5i9wrRicBXg",
+    "alt": "Chiang Mai local morning fresh market stall with vibrant colorful exotic herbs, wild mushrooms and purple sticky rice steaming in woven bamboo basket, authentic lifestyle street documentary",
+    "source": "02_explore_activities",
+    "path": "/images/market.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "silver",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDnVNSGYbjtu1xgCIuKK7FOdJSERyI5r6oKnlwwTCG2dIb9qrUeDMtq1JeVFjRj8AQ_zpR3_uoy6ilAQDqHZUJDkQrDGI5vTwLvbRtqJKYjeKPhij4AdzWuBaAmQdcqgBiY40QOVP8Gn4ixMZD-vM1b2x6PrqiQ6zzMCA7xlXHnFHk_q_LETDBXII6PgQDB_gqp_peTkTktrkwwGod4law88IF__YVKNNgpCVmvtKN0bBhbjDK6VpEOwA",
+    "alt": "Chiang Mai silversmith carving detailed traditional floral relief on silver bowl under hanging warm incandescent light, metal chips sparkling, authentic artisan studio atmosphere",
+    "source": "02_explore_activities",
+    "path": "/images/silver.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "cooking-detail",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAuiJuxUOONJ37z9h6b6fwZJo34qtNmWIDLrGuatolDPcDX69oNIU-72lvHhd85htBfX-_Jy-xqLi2-BQeG5ULEOeIMKl--5odSbbugNl0kzTNH-EK_g_72x4UwwAtQTJvlOJq5y8rbr5bC9c5A4aCCoG-v4-hjnekpMX7Y4DswjcmEbyjgHG6O0ITBvX9PFGhX2MFf-J4wVwE2zgE516wP6m4c1phVFEFv46hP16TQHb7CuOpgI0IyXQ",
+    "alt": "A smiling elderly Northern Thai female host in authentic indigo dyed cotton clothing guiding young travelers who are grinding fresh green chili and herbs using a rustic granite mortar inside a sun-dappled open-air wooden kitchen pavilion surrounded by lush tropical misty mountain foliage in Mae Kampong Chiang Mai with warm natural cinematic lighting and rich organic textures.",
+    "source": "03_activity_detail",
+    "path": "/images/cooking-detail.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "detail-herbs",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCvTBO5JQkZcWnpSRBrRMpxmb6AP3k9cfL_Yt7KHM-NKNA5h_6kg9jkj4RKSW4YgmnIO0kaXGBgHgJ208CDsVdLin42IETQq98L2EgBIb3AaJMkiNX_AEKyPyxARb7JV7RkoJt4b-fAVi4sru1ywrpnUaKbu-GXdofQaDyLFDSxzMBIFupvpBhTNlwlsZ957fR5Aq1v2DtEJxzciCY0pl16P5ybVQARb5s9qF-hedEREhaSpQ4f8oQreg",
+    "alt": "Close-up of freshly picked Northern Thai organic garden herbs like lemongrass, galangal, kaffir lime leaves, and long green chili peppers neatly placed in a woven bamboo basket placed in a verdant hillside garden in Chiang Mai under soft morning sunlight with crisp organic details.",
+    "source": "03_activity_detail",
+    "path": "/images/detail-herbs.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "detail-curry",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAFziuUL23kticPUqeYlMoeRdLoPlmKeiBEj-tmEPNnsXl7WBu5OpXxALChbIztCS4wlO4wBdoydVOI3HOBFvFY5pf93NZ-4IxFQv8TMU2kOxrGSKeY4gojJfZWwdq8OcoKuupEf8EmNT_yqZg4N6rXhJV0bQz9lGFaAcRJs1ANAfb_i3jh-9TPhLSLQAKcKfge8WE0IAqyg7gkCmFqosP-mphonkPb9ur6hToo8yif8HHUgxwuPwcR6g",
+    "alt": "Traditional bubbling rich Northern Thai Kaeng Hang Le curry stew simmered slowly in a rustic clay pot over a crackling charcoal brazier with aromatic spices, sliced ginger, and cloves, authentic village culinary ambiance.",
+    "source": "03_activity_detail",
+    "path": "/images/detail-curry.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "detail-meal",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDh40rBK9U5Zgx5yXjwZE4JpAXrrrKb9NPdgwDH7n7nFfMagAi_Ba_0RS4WksD3QB7UO5YKzx081mschjVuldKTjR4jTU14XyEIITS_lf4u-kF2bBzsxPKkLM478F5UmuRAgBBJJ63eOYPlzPRFqYgsw4nr0NnRJT4D5YmMzTQaXLocHX6TbMZUww5oJkkp6PY5xgF6acTwQD6adMOxUehWxyygveqZ5lBN9tL6kGr0W1BjVFbPGjnLBQ",
+    "alt": "Beautifully prepared traditional Lanna Khan Tok meal on a carved wooden pedestal tray featuring bowls of fresh Nam Prik Num, steamed organic mountain sticky rice in a bamboo wicker kratip, crispy pork rinds, boiled local vegetables, and floral garnish on banana leaf.",
+    "source": "03_activity_detail",
+    "path": "/images/detail-meal.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "detail-pavilion",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD8w_i4b7-YH7nEH-cbaOmi18GgeF9d3r_3Ao0ifrAOqI4kgQhEnG-aqHjF9CpNY8NCyb_8US_4xyLOnVvH8ATdlfk8IXoSpD4eNm5octM8S7hKVbKpM18M-LAtU2wXF_aWkcarD2H3WeD-GGOd_ZUFqDn64p6ewPEL7WZKS8_J-oaB7hu2d677U6WVxTCseQKObEyEaygtTYxu-sDpXWbTUdOK0W3g3fcwTvnjSXiuCLizy1L1cKHh7A",
+    "alt": "Traditional open-sided teak wood cooking pavilion in Mae Kampong village nestled beside a clear bubbling stream with hanging garlic braids, dried chillies, and ambient warm lantern glow under the forest canopy.",
+    "source": "03_activity_detail",
+    "path": "/images/detail-pavilion.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "host-somsri",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDKx-QOjGjjkF-HJ67c7aimaamt1vjhaOChNgdEk0SyKA5iASEsuBw4UXwd4gNMW6q-WmGKYR42MUjDzXwbRseT7HP7Ws9wzc6oR83Ij3ScCQabEBh3raKAncZW-LzgheYoAxqA0-0AMqfNdd6CYdF6hm5eVTeu51DfsuhSYQoFGmQaYe_ibGL6UT8Ch0D4ZkeY4HwU8ICdiy3dP4irNt8rb04u-1dGLGEU_1NyQ3iVH_Sf4NXiaJFdrg",
+    "alt": "Portrait of an elderly welcoming Northern Thai woman named Auntie Somsri in blue indigo mor hom costume with a friendly warm smile and traditional silver hair pin in a peaceful village environment.",
+    "source": "03_activity_detail",
+    "path": "/images/host-somsri.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "cooking-trip",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuARsh26prmXP-nDN3xVR2qjrp-HtddxGxUni2Cw6e5X_7K4NSJ4ixNSNAFMw_PUdCSAwaHCEPqLMFIrfvDrSXJWTmAGT1PynJ5c4WeDeT2yjT2Ow2F3DN7QNidl5nq22gIA7RKO0ZT2Ods5WSk38VqhzvTGOmRyCbsiSOz1wyyFEsvSe1tiCzecaTPzcehkt0Jza3oQ4qs5xPucUOMaGdftdBx7Q6JzxyndJtD_xIsLxJ6YTpV5zDZ6Qw",
+    "alt": "Northern Thai authentic cooking masterclass in Mae Kampong lush green organic mountain garden with traditional clay mortar cooking spicy chili paste and hung lay curry in evening light",
+    "source": "04_my_trip",
+    "path": "/images/cooking-trip.webp",
+    "size": [
+      512,
+      286
+    ]
+  },
+  {
+    "name": "pottery-trip",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBWTWqmYJkbcOPIl99HPrcvNmZgR-BEiBBH94WAszXwYZ6V3FemjRHiQaDYI-TSvbuc9bf33e4Uljt1qLwJmphhxr_WDkGZit_0reRuM6NfSikWtLeSis0v8HyXQ13H4BiW8NJHrZIgc759QGP7-VH_r7OWaAAh5OTTt6sVidFvV-YNetENEzPweyPc7dwB5Xm4T6sRnHeTXL_1oEC1mpJkGHZhIbijdHrJS6Jk8d10g8dztjopUCudGw",
+    "alt": "Traditional Thai Celadon ceramic pottery workshop hand-throwing spinning wheel with green jade glaze and artisan carving fine folk patterns in Doi Saket studio",
+    "source": "04_my_trip",
+    "path": "/images/pottery-trip.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "tea",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCJsiVTsJKkR00b5yrAarFXX8lx-tvlI3knyUBYRSU8T4D93FRigu5oMznyJZHV6_6X01cTfVDuqzeaJLUbsfRD7uD0XHzCskOaSQm14f9JST5Ni75NbLpAsEV3msQ2US6Aec_veQt6_bYpGCD-JJHjPiVkF-o4fhTkZdJT6JdNMkgDaxQX9-PRVVF8IddZwvV_1ILIgeNth_PzbA38Owrb8GVf_3GUXm7zsXFXEAoVpeuxay7qCqUWXA",
+    "alt": "Lush high-altitude organic Assam tea and Arabica coffee plantation harvest trek with Karen hilltribe local host in mist-shrouded Chiang Mai mountain forest morning",
+    "source": "04_my_trip",
+    "path": "/images/tea.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "map-reference",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAN6A5zIrr3s835HMqAQnFzSVUi1zW8j6OTV8YICrH8NOTtZuuPGEga6R5LUXCqiyakUCeQi2zuiIDvnYBo6M33B7wR7SUEI0Mwe-wbpY75ebBw-piGmSwV0LjaeBh2RQRkJrHbZN7CHda1r_jT6nnH93jUIKQbIYrqwE_HpF0_ijQ0FT1ElfNljo_QjtLHF1h9B4_QjV9telqRP1Bg7NE4fLSdR5vqW9I6gM1yj-qvMOv8HBucrZEytA",
+    "alt": "Static reference map, not live geographic data",
+    "source": "04_my_trip",
+    "path": "/images/map-reference.webp",
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "cooking-planner",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBeCFYoPMu9Ge-Caar8kPwxNnjIu1DjbG5A_DyHeKSVXdEV-qpW6sUF0RQYL6EK9HS1KPvnd2EFsxhRRsIQn4iTPdMQZvHF-uINml1gQ4NEOwZKCc-yYTYZPbEQ6Lq1bwG4EXjPGC-S3XiVkAGPZ7P9Dtk8Lfpr0OYhT7saLlV6LfGAGVcVMvp-0H-oEHklRyYH_eqV-x_am3J4mNl4P2as0Hte2IyldKOnIIs-DPfNmYSraaenahxEzg",
+    "alt": "Traditional northern Thai cooking workshop in Mae Kampong mountain village, fresh green chili dip nam prik noom in stone mortar, steam rising from aromatic herbs in organic garden setting, dusk natural soft light, indigo tones",
+    "source": "05_ai_trip_planner",
+    "path": "/images/cooking-planner.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "pottery-planner",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcHaUILtgI20LmmRaLxssD3ZCrn6-CbdBZaH9aQKswYA2F0UvlMb6yiOkPLrfZ-j36GtGPjlEQ9-VwTvtfVueKPZuFQaIy7JD3XFPK5PBoyOfgz5MTYHRnkOkmzOmSiJKPGHxkfw0g6kYaB3ShQDdt1anTW6ihzeCEvclSycqEWA8XCPLjwaZbl46hOLxuA1ToVR8ZmQAlDOaqkgKuEQfBn9ohkBPxzFF06lkmSADfU8lDBLK7J6AsvQ",
+    "alt": "Traditional Northern Thai Celadon green pottery crafting workshop in Doi Saket Chiang Mai, hands molding wet clay on a pottery wheel, studio with natural wood and ceramics shelves, ambient dark moody aesthetics with indigo glow",
+    "source": "05_ai_trip_planner",
+    "path": "/images/pottery-planner.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "weaving",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC6N7bsO6fsRcjMjeqZVT3BIwqQ8zhaR4LdCcE26grglQZKoZ91lNaX0f0mE4c3klkk1pT7heVTW30yAgBVVS9xVC6R8uPoNekjfknu7zTe864SBq4wjgxEJm2U1Ix-WuPnJcuCESr1bN-LTozIvTZNWJIvIqGxHL2wLKewU1B45U30lu1XAWnSvzB3RTq22DouvNY1mk_T6qFPTWbZAC2gHFJrDFn_23-L8G2bAFEXwkvoS_fBQBhn0A",
+    "alt": "Traditional Lanna bamboo weaving in rustic Thai village workshop, delicate bamboo strips held by northern artisan, ambient warm light and serene atmosphere",
+    "source": "05_ai_trip_planner",
+    "path": "/images/weaving.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "coffee-roasting",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBhDn9uqO0NlsnwH-16WY01M0XV6v1oC2hXN07vNeVvhZ9dWEOJLZWHnWiMZ_R6ciCNLdv6Il4KGpAW7hDCAW1oW67DM-IVK3xUmADKk_aSdT_HWbtbcOV81vUehOXdwUtj39UBolYR3t7ffwbIMF2xjG4XnFAFrT6rhLvuN3n_R8S2xBu91ZpY3mRShkost6eoWR1pNXqoqcfI03tvPbIOOFtmFlzTJVO5Hj03B_xIwwyz3saCB1Ylzw",
+    "alt": "Organic Arabica coffee roasting and tasting session under lush jungle shade in Chiang Mai highlands, fresh coffee beans in clay roaster, smoke drifting slowly into dusky evening light",
+    "source": "05_ai_trip_planner",
+    "path": "/images/coffee-roasting.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "indigo-planner",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA6YWx4rlW_uuYMGE7dPlcQlyKA5eZsaJhfm7sQ-l3vMqev8uATf4jHoMxmDyRsov_lA8Dl2QlTwxrkvwL1pOzGf0nUXL3DKK899KaaICZ72ODbfAAnd-cuynEFTZBmtFhN1UlSu18obavWXYPakE-iUZZFMzfjnJieHbTOMOHcdeR4k5uSuB7G9bzSwl1nyi3cxJd5yliVyidjgy8AjtL3prH-H8ZUTW0e7Mfil0uxUpR3GXqm_DhYXA",
+    "alt": "Natural indigo fabric dyeing tie-dye workshop in northern Thailand, traditional vats of indigo dye, drying patterned cotton fabrics gently blowing in evening wind",
+    "source": "05_ai_trip_planner",
+    "path": "/images/indigo-planner.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "cooking-booking",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDlbNoIgY2lcIdNC7y9r-XQcGiIXD4sIt0vGuDfU7Lh7_eoiM_bUccf1riIsniskAOaJnAOqGBowHc1gFZaurhb3WfUwK1DjD9NpsVZ2x0wzcTthnoiUMXSwdrZGsPR-VnmDQG8kaAJb2sHeITF9d7CJwIJ9RyDgzzVW5xHxelasYhndYdELJcADeW4DMhzaJNMuy2HV-5FxRwP8clqzBBGcwa8IOLNwT0EgkBwQMOZ07IK9-HdgqpCZA",
+    "alt": "Northern Thai traditional culinary workshop in wooden village house in Mae Kampong, Chiang Mai, lush rainforest background, steam rising from stone mortar with young green chili relish and aromatic northern curry, warm soft dusk illumination",
+    "source": "06_booking_summary",
+    "path": "/images/cooking-booking.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "pottery-booking",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBBGFgByw9WMlHJ5wM6g8YXNFxoB03pxgI0yhccFujj5ufPiO0hEUN-GHHQRH5jucZETB4SW10QaDjHY5dMk8XSvgIku4tw363E85-QBg2rtIeg44slkek-XiNnDppfHgFXeZVVTfbzchyjWWAOa6hFbC1PYLy5PhQ0Yh84Toq-W1VtdA_w_vB3tc0zCWbluO7n0fEqzEiZR2VnZ1_bglZQourH3TcvogeDsfN7qIGzwvJpO4kKQmRPTw",
+    "alt": "Traditional Thai Celadon ceramic pottery wheel craft studio in Doi Saket Chiang Mai, artisan hands shaping raw stoneware clay vase, wood kiln smoke, artistic minimalist natural lighting",
+    "source": "06_booking_summary",
+    "path": "/images/pottery-booking.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "tea-booking",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB6Kk8GY_04dkg5aVlBXKwWMiNNqqeNFrp2LbtIICZ6jMYICh1tDKwPjnja7-afY1VmT28T-2jBG4A3ZuJV-1v7IAhb2kM2tKPV03rWy31AkSeoLLm8_HyVy_-VT1eeBLhfX3N2RCFsHa5P9G2z6WAV6zsq-Vm7mRGS6Ior8MJ9NR0UWmr-RbEmJ7KCucAwmQAa6hjDNmQRg1YBXsQ_fuxVs7lGED3eH10g8ZIOvWoSfqjR_SHVY5vjYQ",
+    "alt": "Organic highland wild Assam tea leaves harvesting and manual campfire coffee roasting in Pa Miang mountain village, morning sun rays filtering through pine trees and tea shrubs, cinematic mood",
+    "source": "06_booking_summary",
+    "path": "/images/tea-booking.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "group-cooking",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDgwMAqxGpQBeJ1AmHNGpmI9iXW95yL2YurwbN1ARet58VLshD9ULCH9vu3eBXei70HhAd883Q_yNucR9FNZLLez3wSm2cmxuIjfy7qLbM_RyqxgOLS8_LwGEfGsWoWXl2nw5UXBgdhWuMC3KfJIi0g9K2qKg0Ty3oxMkMkSx-cEEAmp2CpRsDcqcdpij4y80HwBvsC8TBzRzxryyFMBI7u9WZmwLhOD5d03q-BUA-KUH-nnldxKIOuMQ",
+    "alt": "Traditional northern Thai cooking workshop in Mae Kampong mountain village, fresh local organic herbs, clay mortar, wood fire stove in rustic open-air wooden kitchen pavilion surrounded by misty tropical rainforest, warm ambient dusk light, high resolution documentary photography",
+    "source": "07_join_group_activities",
+    "path": "/images/group-cooking.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "group-trekking",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD-Pmw6cnAczR7MqzHXUpZJnFFG0s6KIT3pWcqAouB4CZsEo1APE_ILmDN0Av7nj-0L_VSnuDLJeosgA_goO3DeTqrR2412847xRu6wx0wGHWJe3_8rGWavyPTAw5pHTDNCbk5pGR4-Q-YIUE7kPrakpQzPs2JUsbvJhp1YmgV-H_b0_jol9NipTChWm_BVdx1aWDR3PA-CfejEkXlJrGRwQ3tdxFK8Y91l94JxYja4p87YE4_HuuNVug",
+    "alt": "Trekking through ancient wild tea trees in misty Ban Pa Miang mountain forest, local guide preparing campfire drip coffee over bamboo embers in mountain clearing, lush greenery, authentic northern Thailand wilderness, soft morning sunlight filtering through mist",
+    "source": "07_join_group_activities",
+    "path": "/images/group-trekking.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "group-paddleboard",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAKPpbFYdHMkuPQ9ybcZ5VoKJFP6FX_WtTd4uf1kx-IpY-xOE5CagKLRmC4TgNOKO-Hj2V-n_0h8Cr1hMx-TCAEFh1COcTNiB2y9DGHW5waS_nnS_39OR4GiM3Vma_LnQ1ghB7tQm9sIi9SMPiKe9nM_FRHxiFohT9U-nPbNeImmOo_hEzPlEWn10Yf1OaIBwjllJpUnIL3vxBBr6IKL_ZaLl6a5RT6wr56ZTzUmvjL3dgudBFvcNC_4g",
+    "alt": "Small group paddling stand-up paddleboards SUP through serene emerald green mangrove forest canal in Phang Nga Bay, towering limestone karst karsts reflections on calm water, warm tropical dusk lighting, eco tourism travel adventure",
+    "source": "07_join_group_activities",
+    "path": "/images/group-paddleboard.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "group-indigo",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCxWG0phzGLE_vhDpcNK0XeSTt3WMxdwRulSHBeZAEIPzvfbJz7JB8rlbEDR_FgSYJdLJYabXiKgKomCK86aRh53wtm23gkmb4aUzVVacqMPUjbLbTeyGnU89fKlPsO-Aj_gzdrd7RsPpCeHFaP6bTRJAJxrC9rR6IxU_wHL6E1lQErPU6v7h1OMZ9Y8Vo3z3pd_sm-8xTd1Y9JzQFagiDX6bfMcZ0XGdQWcbnWsFP8JyMYG7SNGc0ZZg",
+    "alt": "Traditional natural indigo dyeing textile craft workshop in Sakon Nakhon Thailand, artisan women showing indigo dye pot and patterned handwoven cotton cloth hanging to dry in rustic courtyard, authentic craft culture, rich deep blue tones, artistic documentary style",
+    "source": "07_join_group_activities",
+    "path": "/images/group-indigo.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "group-cycling",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBEWCxES7-EVi3a4Rcrqfnr9t1qS7q6DdBkPX-IzGpBC3HTD94605-NZWlkaBPS0IJRG-ib3IyEozmH_VKjocR6arZjzMVBYM-KIC_VvsIPey27tp7E4omeHFmnTgMHRcBmFosxaebrv0yEIJXRiX8ctEtIMqHcMHoSQU9AHr6R91TuQBxvdOm3k16xySWn1uA05xdGvhN12YgbiwNU7yyZS-EtGsMgwaberdjS0gGdjQj8EODnfve8BA",
+    "alt": "Small group cycling classic vintage bicycles along shaded ancient canal pathway by Ping River Chiang Mai, local wooden fruit stalls and flowering bougainvillea, golden hour afternoon lighting, tranquil northern Thai lifestyle",
+    "source": "07_join_group_activities",
+    "path": "/images/group-cycling.webp",
+    "size": [
+      512,
+      279
+    ]
+  },
+  {
+    "name": "group-weaving",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDKta9iVQQJieLx9yGKlqLaIzBVdvXzc6iu5gAlj9118sTlSa2CfHhfO2QNAc79fYHNba-QzifxoenvgUF9K8EsYdM4_0EZW4Dap4PLng7p4VdTvKxJRhCAb87fEA56dUO3mxFAqQQuo-zZRMWSYjntHbAcQ4VDVWukqPUYpN_bOo0aSQC3feeqgB6r6R9I7imuwgZ4_4p0gw8aACMqAqUsTOK0XbxwMjneRfu8MbHmEdKTFjMvMiW8zw",
+    "alt": "Traditional terrace rice fields in Pua Nan Northern Thailand, local farmer elder teaching small group how to weave bamboo baskets on open wooden veranda overlooking green rice paddies and distant blue mountains, cinematic serene ambiance",
+    "source": "07_join_group_activities",
+    "path": "/images/group-weaving.webp",
+    "size": [
+      286,
+      512
+    ]
+  },
+  {
+    "name": "login-scene",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAnfrOHzx7JcIyKL8IQ7mA3UexlpY5wpa6Lxo9pgnUOzvetuYcpZZ9_Qkkw3TNm4uyiPSsYhIbfo9OSLPm4zfIBsHImFABwbdbbgcHYhCD2nG-h3wodjCZhV8BkR8CHHqsQ4zL5KycR0ps6umJKPWC-mmOxltd1a60xsLtvEbQHTB23FPe-Y_AQ8EFsUKyedF4PT-8YDO24c4Sb3A22Cg4qCpM_POLYpDCKYbcb0uyjSEC9lBQGgggX6w",
+    "alt": "Reference background photography",
+    "source": "08_login_register",
+    "path": "/images/login-scene.webp",
+    "size": [
+      512,
+      279
+    ]
+  }
+]
